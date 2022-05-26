@@ -43,6 +43,9 @@ https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitt
 # My own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 
+# iBlockAds list
+https://iblockads.net/iblockads.net.txt
+
 # ----------------------------------
 # Now some region-specific lists
 # ----------------------------------
